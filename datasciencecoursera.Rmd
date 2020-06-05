@@ -1,0 +1,12 @@
+---
+title: "datasciencecoursera"
+author: "Bryan Goh"
+date: "6/5/2020"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+## This is a markdown file
+
